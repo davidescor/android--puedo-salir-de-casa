@@ -5,7 +5,7 @@
 
 # ¿Puedo salir de casa?
 
-Application that you can know if you can leave home.
+Application that tells you if you can leave home right now.
 
 
 <p><img width="250" height="420" src="http://davidespier.com/img/android/puedosalir.jpg">
