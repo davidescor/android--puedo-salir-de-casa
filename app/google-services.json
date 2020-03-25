@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "998161208106",
+    "firebase_url": "https://puedosalirdecasa-b2a8c.firebaseio.com",
+    "project_id": "puedosalirdecasa-b2a8c",
+    "storage_bucket": "puedosalirdecasa-b2a8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998161208106:android:84d7f36aece840d92d8453",
+        "android_client_info": {
+          "package_name": "com.davidespier.puedosalirdecasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998161208106-rkprcn8hobe1158tps9ercvsq0ehmue5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.davidespier.puedosalirdecasa",
+            "certificate_hash": "4d793365fab21a2b5fcff4d788a67dbffa9da493"
+          }
+        },
+        {
+          "client_id": "998161208106-aibp7t8p42g68ibo8urv8vgpqeqc1ns6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ9NvawosQkAyanSF9jyjpENaG7Zsy8wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998161208106-aibp7t8p42g68ibo8urv8vgpqeqc1ns6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
