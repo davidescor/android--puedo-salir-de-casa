@@ -31,7 +31,7 @@ Application that tells you if you can leave home right now.
 
 ## Website project
 
-[Google play](#)
+[Google play](https://play.google.com/store/apps/details?id=com.davidespier.puedosalirdecasa)
 
 
 ## Authors
