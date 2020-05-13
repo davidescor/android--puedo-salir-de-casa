@@ -3,7 +3,7 @@
 </p>
 
 
-# ¿Puedo salir de casa?
+# I can leave home?
 
 Application that tells you if you can leave home right now.
 
