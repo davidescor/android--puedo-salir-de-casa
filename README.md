@@ -24,7 +24,8 @@ Application that tells you if you can leave home right now.
   
   2- Create remote config value in firebase.
   
-  3- In remote config add parameter key "message" and add value = text (Exemple = 'No.')
+  3- In remote config add parameter key "message" and add value = You'r text.__**__ <br>
+  __**__ Exemple = 'Hello world'.
   
   4- Build and run project.
   
