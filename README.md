@@ -8,8 +8,8 @@
 Application that tells you if you can leave home right now.
 
 
-<p><img width="250" height="420" src="https://i.postimg.cc/zvHR9yvC/puedosalir1.jpg">
-<img width="250" height="420" src="https://i.postimg.cc/V6VCGqfs/puedosalir.jpg"></p>
+<p><img  src="https://i.postimg.cc/zvHR9yvC/puedosalir1.jpg">
+<img src="https://i.postimg.cc/V6VCGqfs/puedosalir.jpg"></p>
 
 ## Requirements
 
